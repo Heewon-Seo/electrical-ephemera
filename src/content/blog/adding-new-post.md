@@ -1,7 +1,7 @@
 ---
 author: Sat Naing
 pubDatetime: 2022-09-23T15:22:00Z
-title: Adding new posts in AstroPaper theme
+title: 테스트!!!!!!
 postSlug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
@@ -17,7 +17,7 @@ Here are some rules/recommendations, tips & ticks for creating new posts in Astr
 
 ## Table of contents
 
-## Frontmatter
+## Frontmatter 테스트
 
 Frontmatter is the main place to store some important information about the post (article). Frontmatter lies at the top of the article and is written in YAML format. Read more about frontmatter and its usage in [astro documentation](https://docs.astro.build/en/guides/markdown-content/).
 
