@@ -1,5 +1,5 @@
 ---
-pubDatetime: "2022-09-23T15:22:00Z"
+pubDatetime: 2022-09-23T15:22:00Z
 title: "My Test Post"
 postSlug: "adding-new-posts-in-astropaper-theme"
 featured: "true"
